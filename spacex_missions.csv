@@ -1,0 +1,264 @@
+Flight Number,Launch Date,Payload,Dragon Model,Payload Application,Payload Quantity,Payload Mass (kg),Exclusive Dragon Mass,Re Used Dragon Module,Orbit,Customer,Launch Outcome,Failure Type,Landing Result,Booster Landing,Launch Site,Launch Facility,Launcher Version,Re-used Launcher,Boosters Version
+F1-1,2006-03-24 22:30:00,FalconSAT-2,,Research,1,20,No,No,LEO,DARPA,Failure,In Flight,No Attempt,No Landing,Marshall Islands,Omelek ,F1,No,Unknown
+F1-2,2007-03-21 01:10:00,DemoSat,,Research,1,20,No,No,LEO,DARPA,Failure,In Flight,No Attempt,No Landing,Marshall Islands,Omelek ,F1,No,Unknown
+F1-3,2008-08-03 03:34:00,Trailblazer,,Communications,1,8,No,No,LEO,ORS,Failure,In Flight,No Attempt,No Landing,Marshall Islands,Omelek ,F1,No,Unknown
+F1-3,2008-08-03 03:34:00,PRESat,,Research,1,8,No,No,LEO,NASA,Failure,In Flight,No Attempt,No Landing,Marshall Islands,Omelek ,F1,No,Unknown
+F1-3,2008-08-03 03:34:00,NanoSail-D,,Research,1,8,No,No,LEO,NASA,Failure,In Flight,No Attempt,No Landing,Marshall Islands,Omelek ,F1,No,Unknown
+F1-4,2008-09-28 23:15:00,RatSat (DemoSat),,Research,1,165,No,No,LEO,SpaceX,Success,No Failure,No Attempt,No Landing,Marshall Islands,Omelek ,F1,No,Unknown
+F1-5,2009-07-14 03:35:00,RazakSAT,,Earth Observation,1,180,No,No,LEO,ATSB,Success,No Failure,No Attempt,No Landing,Marshall Islands,Omelek ,F1,No,Unknown
+F9-1,2010-06-04 18:45:00,Dragon Spacecraft Qualification Unit,,Research,1,12500,Yes,No,LEO,SpaceX,Success,No Failure,Failure,Parachute,CCSFS,SLC-40 ,F9 v1.0,No,B0003
+F9-2,2010-12-08 15:43:00,SpaceX COTS Demo Flight 1,Dragon C101,Research,1,12500,Yes,No,LEO (ISS),NASA (COTS) / Various,Success,No Failure,Failure,Parachute,CCSFS,SLC-40 ,F9 v1.0,No,B0004
+F9-3,2012-05-22 07:44:00,SpaceX COTS Demo Flight 2,Dragon C102,Research,1,525,Yes,No,LEO (ISS),NASA (COTS),Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 v1.0,No,B0005
+F9-4,2012-10-08 12:35:00,SpaceX CRS-1,Dragon C103,Transportation,1,4700,Yes,No,LEO (ISS),NASA (CRS),Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 v1.0,No,B0006
+F9-5,2013-03-01 15:10:00,SpaceX CRS-2,Dragon C104,Transportation,1,4877,Yes,No,LEO (ISS),NASA (CRS),Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 v1.0,No,B0007
+F9-6,2013-09-29 16:00:00,CASSIOPE,,Science,1,500,No,No,Polar orbit LEO,MDA,Success,No Failure,Uncontrolled,Ocean,VSFB,SLC-4E ,F9 v1.1,No,B1003
+F9-7,2013-12-03 22:41:00,SES-8,,Communications,1,3170,No,No,GTO,SES,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 v1.1,No,B1004
+F9-8,2014-01-06 22:06:00,Thaicom 6,,Communications,1,3325,No,No,GTO,Thaicom,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 v1.1,No,Unknown
+F9-9,2014-04-18 19:25:00,SpaceX CRS-3,Dragon C105,Transportation,1,2296,Yes,No,LEO (ISS),NASA (CRS),Success,No Failure,Controlled,Ocean,CCSFS,SLC-40 ,F9 v1.1,No,Unknown
+F9-10,2014-07-14 15:15:00,Orbcomm-OG2-1,,Earth Observation,6,1316,No,No,LEO,Orbcomm,Success,No Failure,Controlled,Ocean,CCSFS,SLC-40 ,F9 v1.1,No,Unknown
+F9-11,2014-08-05 08:00:00,AsiaSat 8,,Communications,1,4535,No,No,GTO,AsiaSat,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 v1.1,No,Unknown
+F9-12,2014-09-07 05:00:00,AsiaSat 6,,Communications,1,4428,No,No,GTO,AsiaSat,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 v1.1,No,B1011
+F9-13,2014-09-21 05:52:00,SpaceX CRS-4,Dragon C106.1,Transportation,1,2216,Yes,No,LEO (ISS),NASA (CRS),Success,No Failure,Uncontrolled,Ocean,CCSFS,SLC-40 ,F9 v1.1,No,B1010
+F9-14,2015-01-10 09:47:00,SpaceX CRS-5,Dragon C107,Transportation,1,2395,Yes,No,LEO (ISS),NASA (CRS),Success,No Failure,Failure ,Drone Ship,CCSFS,SLC-40 ,F9 v1.1,No,B1012
+F9-15,2015-02-11 23:03:00,DSCOVR,,Science,1,570,No,No,Sun-Earth L1 insertion,USAF / NASA NOAA,Success,No Failure,Controlled,Ocean,CCSFS,SLC-40 ,F9 v1.1,No,B1013
+F9-16,2015-03-02 03:50:00,ABS-3A,,Communications,1,4159,No,No,GTO,ABS,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 v1.1,No,B1014
+F9-16,2015-03-02 03:50:00,Eutelsat 115 West B,,Communications,1,4159,No,No,GTO,Eutelsat,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 v1.1,No,B1014
+F9-17,2015-04-14 20:10:00,SpaceX CRS-6,Dragon C108.1,Transportation,1,1898,Yes,No,LEO (ISS),NASA (CRS),Success,No Failure,Failure,Drone Ship,CCSFS,SLC-40 ,F9 v1.1,No,B1015
+F9-18,2015-04-27 23:03:00,TurkmenAlem 52ºE/MonacoSAT,,Communications,1,4707,No,No,GTO,Turkmenistan National Space Agency,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 v1.1,No,B1016
+F9-19,2015-06-28 14:21:00,SpaceX CRS-7,Dragon C109,Transportation,1,1952,Yes,No,LEO (ISS),NASA (CRS),Failure,In Flight,Precluded,Drone Ship,CCSFS,SLC-40 ,F9 v1.1,No,B1018
+F9-20,2015-12-22 01:29:00,Orbcomm-OG2-2,,Earth Observation,11,2034,No,No,LEO,Orbcomm,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40 ,F9 v1.1,No,B1019
+F9-21,2016-01-17 18:42:00,Jason-3,,Science,1,553,No,No,LEO,NASA (LSP) / NOAA / CNES,Success,No Failure,Failure,Drone Ship,VSFB,SLC-4E ,F9 v1.1,No,B1017
+F9-22,2016-03-04 23:35:00,SES-9,,Communications,1,5271,No,No,GTO,SES,Success,No Failure,Failure,Drone Ship,CCSFS,SLC-40 ,F9 v1.1,No,B1020
+F9-23,2016-04-08 20:43:00,SpaceX CRS-8,Dragon C110.1,Transportation,1,3136,Yes,No,LEO (ISS),NASA (CRS),Success,No Failure,Success,Drone Ship,CCSFS,SLC-40 ,F9 v1.1,No,B1021.1
+F9-24,2016-05-06 05:21:00,JCSAT-14,,Communications,1,4696,No,No,GTO,SKY Perfect JSAT Group,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40 ,F9 v1.1,No,B1022
+F9-25,2016-05-27 21:39:00,Thaicom 8,,Communications,1,3100,No,No,GTO,Thaicom,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40 ,F9 v1.1,No,B1023.1
+FT-1,2016-06-15 14:29:00,ABS-2A,,Communications,1,3600,No,No,GTO,ABS,Success,No Failure,Failure,Drone Ship,CCSFS,SLC-40 ,F9 FT,No,B1024
+FT-1,2016-06-15 14:29:00,Eutelsat 117 West B,,Communications,1,3600,No,No,GTO,Eutelsat,Success,No Failure,Failure,Drone Ship,CCSFS,SLC-40 ,F9 FT,No,B1024
+FT-2,2016-07-18 04:45:00,SpaceX CRS-9,Dragon C111.1,Transportation,1,2257,Yes,No,LEO (ISS),NASA (CRS),Success,No Failure,Success,Ground Pad,CCSFS,SLC-40 ,F9 FT,No,B1025.1
+FT-3,2016-08-14 05:26:00,JCSAT-16,,Communications,1,4600,No,No,GTO,SKY Perfect JSAT Group,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40 ,F9 FT,No,B1026
+FT-4,2016-09-03 07:00:00,AMOS-6,,Communications,1,5500,No,No,GTO,Spacecom,Precluded,Pre-Flight,Precluded,Drone Ship,CCSFS,SLC-40 ,F9 FT,No,B1028
+FT-5,2017-01-14 17:54:00,Iridium NEXT-1,,Communications,10,9600,No,No,Polar LEO,Iridium Communications,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E ,F9 FT,No,B1029.1
+FT-6,2017-02-19 14:39:00,SpaceX CRS-10,Dragon C112.1,Transportation,1,2490,Yes,No,LEO (ISS),NASA (CRS),Success,No Failure,Success,Ground Pad,KSC,LC-39A ,F9 FT,No,B1031.1
+FT-7,2017-03-16 06:00:00,EchoStar 23,,Communications,1,5600,No,No,GTO,EchoStar,Success,No Failure,No Attempt,No Landing,KSC,LC-39A ,F9 FT,No,B1030
+FT-8,2017-03-30 22:27:00,SES-10,,Communications,1,5300,No,No,GTO,SES,Success,No Failure,Success,Drone Ship,KSC,LC-39A ,F9 FT,Yes,B1021.2
+FT-9,2017-05-01 11:15:00,NROL-76,,Military,1,8700,No,No,LEO,NRO,Success,No Failure,Success,Ground Pad,KSC,LC-39A ,F9 FT,No,B1032.1
+FT-10,2017-05-15 23:21:00,Inmarsat-5 F4,,Communications,1,6070,No,No,GTO,Inmarsat,Success,No Failure,No Attempt,No Landing,KSC,LC-39A ,F9 FT,No,B1034.1
+FT-11,2017-06-03 21:07:00,SpaceX CRS-11,Dragon C106.2,Transportation,1,2708,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,Success,Ground Pad,KSC,LC-39A ,F9 FT,No,B1035.1
+FT-12,2017-06-23 19:10:00,BulgariaSat-1,,Communications,1,3669,No,No,GTO,Bulsatcom,Success,No Failure,Success,Drone Ship,KSC,LC-39A ,F9 FT,Yes,B1029.2
+FT-13,2017-06-25 20:25:00,Iridium NEXT-2,,Communications,10,9600,No,No,LEO,Iridium Communications,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E ,F9 FT,No,B1036.1
+FT-14,2017-07-05 23:38:00,Intelsat 35e,,Communications,1,6761,No,No,GTO,Intelsat,Success,No Failure,No Attempt,No Landing,KSC,LC-39A ,F9 FT,No,B1037.1
+F9-26,2017-08-14 16:31:00,SpaceX CRS-12,Dragon C113.1,Transportation,1,3310,Yes,No,LEO (ISS),NASA (CRS),Success,No Failure,Success,Ground Pad,KSC,LC-39A ,F9 B4 ,No,B1039.1
+FT-15,2017-08-24 18:51:00,Formosat-5,,Earth Observation,1,475,No,No,SSO,NSPO,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E ,F9 FT,No,B1038.1
+F9-27,2017-09-07 14:00:00,Boeing X-37B OTV-5,,Transportation,2,4990,No,No,LEO,USAF,Success,No Failure,Success,Ground Pad,KSC,LC-39A ,F9 B4 ,No,B1040.1
+F9-28,2018-10-09 12:37:00,Iridium NEXT-3,,Communications,10,9600,No,No,Polar LEO,Iridium Communications,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E ,F9 B4 ,No,B1041.1
+FT-16,2017-10-11 20:53:00,SES-11/EchoStar 105,,Communications,1,5400,No,No,GTO,SES / EchoStar,Success,No Failure,Success,Drone Ship,KSC,LC-39A ,F9 FT,Yes,B1031.2
+F9-29,2017-10-30 19:34:00,Koreasat 5A,,Communications,1,3500,No,No,GTO,KT Corporation,Success,No Failure,Success,Drone Ship,KSC,LC-39A ,F9 B4 ,No,B1042.1
+FT-17,2017-12-15 15:36:00,SpaceX CRS-13,Dragon C108.2,Transportation,1,2205,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,Success,Ground Pad,CCSFS,SLC-40 ,F9 FT,Yes,B1035.2
+FT-18,2017-12-23 01:27:00,Iridium NEXT-4,,Communications,10,9600,No,No,Polar LEO,Iridium Communications,Success,No Failure,Controlled,Ocean,VSFB,SLC-4E ,F9 FT,Yes,B1036.2
+F9-30,2018-01-08 01:00:00,Zuma,,Military,1,8700,No,No,LEO,Northrop Grumman,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40 ,F9 B4 ,No,B1043.1
+FT-19,2018-01-31 21:25:00,GovSat-1 (SES-16),,Communications,1,4230,No,No,GTO,SES,Success,No Failure,Controlled,Ocean,CCSFS,SLC-40 ,F9 FT,Yes,B1032.2
+FH-1,2018-02-06 23:45:00,Elon Musk's Tesla Roadster,,Marketing,1,1250,No,No,Heliocentric0.99-1.67 AU(close to Mars transfer orbit),SpaceX,Success,No Failure,Failure,Drone Ship,KSC,LC-39A ,Falcon Heavy ,No,B1033.1
+FT-20,2018-02-22 14:17:00,Paz,,Communications,1,2150,No,No,SSO,Hisdesat,Success,No Failure,No Attempt,No Landing,VSFB,SLC-4E ,F9 FT,Yes,B1038.2
+FT-20,2018-02-22 14:17:00,Tintin A,,Communications,1,2150,No,No,SSO,exactEarth,Success,No Failure,No Attempt,No Landing,VSFB,SLC-4E ,F9 FT,Yes,B1038.2
+FT-20,2018-02-22 14:17:00,Tintin B,,Communications,1,2150,No,No,SSO,exactEarth,Success,No Failure,No Attempt,No Landing,VSFB,SLC-4E ,F9 FT,Yes,B1038.2
+F9-31,2018-03-06 05:33:00,Hispasat 30W-6,,Communications,1,6092,No,No,GTO,Hispasat,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 B4 ,No,B1044.1
+F9-31,2018-03-06 05:33:00,PODSat,,Research,1,6092,No,No,GTO,NovaWurks,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 B4 ,No,B1044.1
+F9-32,2018-03-30 14:14:00,Iridium NEXT-5,,Communications,10,9600,No,No,Polar LEO,Iridium Communications,Success,No Failure,No Attempt,No Landing,VSFB,SLC-4E ,F9 B4 ,Yes,B1041.2
+F9-33,2018-04-02 20:30:00,SpaceX CRS-14,Dragon C110.2,Transportation,1,2647,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 B4 ,Yes,B1039.2
+F9-34,2018-04-18 22:51:00,Transiting Exoplanet Survey Satellite (TESS),,Science,1,362,No,No,HEO for P/2 orbit,NASA (LSP),Success,No Failure,Success,Drone Ship,CCSFS,SLC-40 ,F9 B4 ,No,B1045.1
+F9-35,2018-05-11 20:14:00,Bangabandhu-1,,Communications,1,3600,No,No,GTO,Thales-Alenia / BTRC,Success,No Failure,Success,Drone Ship,KSC,LC-39A ,F9 B5,No,B1046.1
+F9-36,2018-05-22 19:47:00,Iridium NEXT-6,,Communications,5,6460,No,No,Polar LEO,Iridium Communications,Success,No Failure,No Attempt,No Landing,VSFB,SLC-4E ,F9 B4 ,Yes,B1043.2
+F9-36,2018-05-22 19:47:00,GRACE-FO 2,,Earth Observation,2,6460,No,No,Polar LEO,GFZ / NASA,Success,No Failure,No Attempt,No Landing,VSFB,SLC-4E ,F9 B4 ,Yes,B1043.2
+F9-37,2018-06-04 04:45:00,SES-12,,Communications,1,5384,No,No,GTO,SES,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 B4 ,Yes,B1040.2
+F9-38,2018-06-29 09:42:00,SpaceX CRS-15,Dragon C111.2,Transportation,1,2697,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 B4 ,Yes,B1045.2
+F9-39,2018-07-22 05:50:00,Telstar 19V,,Communications,1,7075,No,No,GTO,Telesat,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40 ,F9 B5,No,B1047.1
+F9-40,2018-07-25 11:39:00,Iridium NEXT-7,,Communications,10,9600,No,No,Polar LEO,Iridium Communications,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E ,F9 B5,No,Unknown
+F9-41,2018-08-07 05:18:00,Merah Putih (formerly Telkom-4),,Communications,1,5800,No,No,GTO,Telkom Indonesia,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40 ,F9 B5,Yes,B1046.2
+F9-42,2018-09-10 04:45:00,Telstar 18V/Apstar-5C,,Communications,1,7060,No,No,GTO,Telesat,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40 ,F9 B5,No,B1049.1
+F9-43,2018-10-08 02:22:00,SAOCOM 1A,,Earth Observation,1,3000,No,No,SSO,CONAE,Success,No Failure,Success,Ground Pad,VSFB,SLC-4E ,F9 B5,Yes,B1048.2
+F9-44,2018-11-15 20:46:00,Es'hail 2,,Communications,1,5300,No,No,GTO,Es'hailSat,Success,No Failure,Success,Drone Ship,KSC,LC-39A ,F9 B5,Yes,B1047.2
+F9-45,2018-12-03 18:34:05,SSO-A (SmallSat Express),,Transportation,1,4000,No,No,SSO,Spaceflight Industries,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E ,F9 B5,Yes,B1046.3
+F9-46,2018-12-05 18:16:00,SpaceX CRS-16,Dragon C112.2,Transportation,1,2500,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,Failure,Ground Pad,CCSFS,SLC-40 ,F9 B5,No,B1050
+F9-47,2018-12-23 13:51:00,GPS III-01 (Vespucci),,Navigation,1,4400,No,No,MEO,USAF,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40 ,F9 B5,No,B1054
+F9-48,2018-01-11 15:31:00,Iridium NEXT-8,,Communications,10,9600,No,No,Polar LEO,Iridium Communications,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1049.2
+F9-49,2019-02-22 01:45:00,Nusantara Satu (PSN-6),,Communications,1,4850,No,No,GTO,SSL,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1048.3
+F9-49,2019-02-22 01:45:00,Beresheet Moon lander,,Science,1,4850,No,No,GTO,SpaceIL / IAI,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1048.3
+F9-49,2019-02-22 01:45:00,S5,,Science,1,4850,No,No,GTO,USAF,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1048.3
+F9-50,2018-03-02 07:49:00,Crew Dragon Demo-1,Dragon C201,Transportation,1,12055,No,No,LEO (ISS),NASA (CCD),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,No,B1051.1
+FH-2,2018-04-11 22:35:00,Arabsat-6A,,Communications,1,6465,No,No,GTO,Arabsat,Success,No Failure,Success,Drone Ship,KSC,LC-39A,Falcon Heavy B5,No,B1055
+F9-51,2019-05-04 06:48:00,SpaceX CRS-17,Dragon C113.2,Transportation,1,2495,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,No,B1056.1
+F9-52,2018-05-24 02:30:00,Starlink v0.9,,Communications,60,13620,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1049.3
+F9-53,2018-06-12 02:17:00,RADARSAT Constellation,,Earth Observation,3,4200,No,No,SSO,Canadian Space Agency (CSA),Success,No Failure,Success,Ground Pad,VSFB,SLC-4E,F9 B5,Yes,B1051.2
+FH-3,2019-06-25 06:30:00,Space Test Program Flight 2 (STP-2),,Transportation,1,3700,No,No,LEO / MEO,USAF,Success,No Failure,Failure,Drone Ship,KSC,LC-39A,Falcon Heavy B5,No,B1057
+F9-54,2019-07-25 22:01:00,SpaceX CRS-18,Dragon C108.3,Transportation,1,2268,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1056.2
+F9-55,2019-08-06 23:23:00,AMOS-17,,Communications,1,6500,No,No,GTO,Spacecom,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40,F9 B5,Yes,B1047.3
+F9-56,2019-11-11 14:56:00,Starlink 1 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1048.4
+F9-57,2019-12-05 17:29:00,SpaceX CRS-19,Dragon C106.3,Transportation,1,2617,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,No,B1059.1
+F9-58,2019-12-17 00:10:00,JCSat-18/Kacific 1,,Communications,2,6956,No,No,GTO,SKY Perfect JSAT Group / Kacific,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1056.3
+F9-59,2020-01-07 02:19:21,Starlink 2 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1049.4
+F9-60,2020-01-19 15:30:00,Crew Dragon in-flight abort test,Dragon C205.1,Transportation,1,12050,Yes,No,Sub-orbital,NASA (CTS),Success,No Failure,No Attempt,No Landing,KSC,LC-39A,F9 B5,Yes,B1046.4
+F9-61,2020-01-29 14:07:00,Starlink 3 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1051.3
+F9-62,2020-02-17 15:05:00,Starlink 4 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Failure,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1056.4
+F9-63,2020-03-07 04:50:00,SpaceX CRS-20,Dragon C112.3,Transportation,1,1977,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1059.2
+F9-64,2020-03-18 12:16:00,Starlink 5 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Failure,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1048.5
+F9-65,2020-04-22 19:30:00,Starlink 6 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1051.4
+F9-66,2020-05-30 19:22:00,Crew Dragon Demo-2,Crew Dragon C206.1 Endeavour,Transportation,1,12530,Yes,No,LEO (ISS),NASA (CCDev),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,No,B1058.1
+F9-67,2020-06-04 01:25:00,Starlink 7 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1049.5
+F9-68,2020-06-13 09:21:00,Starlink 8 v1.0,,Communications,58,15410,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1059.3
+F9-68,2020-06-13 09:21:00,SkySats-16,,Earth Observation,1,15410,No,No,LEO,Planet Labs,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1059.3
+F9-68,2020-06-13 09:21:00,SkySats-17,,Earth Observation,1,15410,No,No,LEO,Planet Labs,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1059.3
+F9-68,2020-06-13 09:21:00,SkySats-18,,Earth Observation,1,15410,No,No,LEO,Planet Labs,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1059.3
+F9-69,2020-06-30 20:10:46,GPS III-03 (Matthew Henson),,Navigation,1,4311,No,No,MEO,U.S. Space Force,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,No,B1060.1
+F9-70,2020-07-20 21:30:00,ANASIS-II,,Communications,1,6000,No,No,GTO,Republic of Korea Army,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1058.2
+F9-71,2020-08-07 05:12:00,Starlink 9 v1.0,,Communications,58,14932,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1051.5
+F9-71,2020-08-07 05:12:00,BlackSky Global 7,,Earth Observation,1,14932,No,No,LEO,Spaceflight Industries / BlackSky,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1051.5
+F9-71,2020-08-07 05:12:00,BlackSky Global 8,,Earth Observation,1,14932,No,No,LEO,Spaceflight Industries / BlackSky,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1051.5
+F9-72,2020-08-18 14:31:00,Starlink 10 v1.0,,Communications,58,15440,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1049.6
+F9-72,2020-08-18 14:31:00,SkySat-19,,Earth Observation,1,15440,No,No,LEO,Planet Labs,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1049.6
+F9-72,2020-08-18 14:31:00,SkySat-20,,Earth Observation,1,15440,No,No,LEO,Planet Labs,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1049.6
+F9-72,2020-08-18 14:31:00,SkySat-21,,Earth Observation,1,15440,No,No,LEO,Planet Labs,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1049.6
+F9-73,2020-08-30 23:18:00,SAOCOM 1B,,Earth Observation,1,3130,No,No,SSO,CONAE,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1059.4
+F9-73,2020-08-30 23:18:00,GNOMES 1,,Earth Observation,1,3130,No,No,SSO,PlanetIQ,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1059.4
+F9-73,2020-08-30 23:18:00,Tyvak-0172,,Earth Observation,1,3130,No,No,SSO,Tyvak,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1059.4
+F9-74,2020-09-03 12:46:14,Starlink 11 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1060.2
+F9-75,2020-10-06 11:29:34,Starlink 12 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1058.3
+F9-76,2020-10-18 12:25:57,Starlink 13 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1051.6
+F9-77,2020-10-24 15:31:34,Starlink 14 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1060.3
+F9-78,2020-11-05 23:24:23,GPS III-04 (Sacagawea),,Navigation,1,4311,No,No,MEO,USSF,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,No,B1062.1
+F9-79,2020-11-16 00:27:00,Crew-1,Crew Dragon C207.1 Resilience,Transportation,1,12500,Yes,No,LEO (ISS),NASA (CCP),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,No,B1061.1
+F9-80,2020-11-21 17:17:08,Sentinel-6 Michael Freilich (Jason-CS A),,Science,1,1192,No,No,LEO,NASA / NOAA / ESA / EUMETSAT,Success,No Failure,Success,Ground Pad,VSFB,SLC-4E,F9 B5,No,B1063.1
+F9-81,2020-11-25 02:13:00,Starlink 15 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1049.7
+F9-82,2020-12-06 16:17:08,SpaceX CRS-21,Dragon C208.1,Transportation,1,2972,Yes,No,LEO (ISS),NASA (CRS),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1058.4
+F9-83,2020-12-13 17:30:00,SXM-7,,Communications,1,7000,No,No,GTO,Sirius XM,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1051.7
+F9-84,2020-12-19 14:00:00,NROL-108,,Military,1,8700,No,No,LEO,NRO,Success,No Failure,Success,Ground Pad,KSC,LC-39A,F9 B5,Yes,B1059.5
+F9-85,2021-01-08 02:15:00,Turksat 5A,,Communications,1,3500,No,No,GTO,Turksat,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1060.4
+F9-86,2021-01-20 13:02:22,Starlink 16 v1.0,,Communications,1,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1051.8
+F9-87,2021-01-24 15:00:00,Transporter-1 (Smallsat Rideshare),,Earth Observation,143,5000,No,No,SSO,Various,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1058.5
+F9-88,2021-02-04 06:19:00,Starlink 18 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1060.5
+F9-89,2021-02-16 03:59:37,Starlink 19 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Failure ,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1059.6
+F9-90,2021-03-04 08:24:54,Starlink 17 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1049.8
+F9-91,2021-03-11 08:13:29,Starlink 20 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1058.6
+F9-92,2021-03-14 10:01:26,Starlink 21 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1051.9
+F9-93,2021-03-24 08:28:24,Starlink 22 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1060.6
+F9-94,2021-03-07 16:34:18,Starlink 23 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1058.7
+F9-95,2021-04-23 09:49:02,Crew-2,Crew Dragon C206.2 Endeavour,Transportation,1,13000,Yes,Yes,LEO (ISS),NASA (CTS),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1061.2
+F9-96,2021-04-29 03:44:30,Starlink 24 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1060.7
+F9-97,2021-05-04 19:01:07,Starlink 25 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1049.9
+F9-98,2021-05-09 06:42:45,Starlink 27 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1051.10
+F9-99,2021-05-15 22:56:00,Starlink 26 v1.0,,Communications,52,14000,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1058.8
+F9-99,2021-05-15 22:56:00,Capella-6,,Earth Observation,1,14000,No,No,LEO,Capella Space,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1058.8
+F9-99,2021-05-15 22:56:00,Tyvak-0130,,Earth Observation,1,14000,No,No,LEO,Tyvak,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1058.8
+F9-100,2021-05-26 16:59:35,Starlink 28 v1.0,,Communications,60,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1063.2
+F9-101,2021-06-03 17:29:17,SpaceX CRS-22,Dragon C209.1,Transportation,1,3328,Yes,No,LEO (ISS),NASA (CRS),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,No,B1067.1
+F9-102,2021-06-06 04:26:00,SXM-8,,Communications,1,7000,No,No,GTO,Sirius XM,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1061.3
+F9-103,2021-06-17 16:09:35,GPS III-05 (Neil Armstrong),,Navigation,1,4331,No,No,MEO,USSF,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1062.2
+F9-104,2021-06-30 19:31:00,Transporter-2 (Smallsat Rideshare),,Earth Observation,88,8700,No,No,SSO,Various,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1060.8
+F9-105,2021-08-29 07:14:49,SpaceX CRS-23,Dragon C208.2,Transportation,1,2200,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1061.4
+F9-106,2021-09-14 03:55:50,Starlink Group 2-1,,Communications,51,13260,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1049.10
+F9-107,2021-09-16 00:02:56,Inspiration4,Crew Dragon C207.2 Resilience,Transportation,1,12519,Yes,Yes,LEO,Jared Isaacman,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1062.3
+F9-108,2021-11-11 02:03:31,Crew-3,Crew Dragon C210.1 Endurance,Transportation,1,13000,Yes,No,LEO (ISS),NASA (CTS),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1067.2
+F9-109,2021-11-13 12:19:00,Starlink Group 4-1,,Communications,53,15635,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1058.9
+F9-110,2021-11-24 06:21:00,Double Asteroid Redirection Test (DART),,Science,1,624,No,No,Heliocentric,NASA (LSP),Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1063.3
+F9-111,2021-12-02 23:12:00,Starlink Group 4-3,,Communications,48,14500,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1060.9
+F9-111,2021-12-02 23:12:00,BlackSky Global 12,,Earth Observation,1,14500,No,No,LEO,Spaceflight Industries / BlackSky,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1060.9
+F9-111,2021-12-02 23:12:00,BlackSky Global 13,,Earth Observation,1,14500,No,No,LEO,Spaceflight Industries / BlackSky,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1060.9
+F9-112,2021-12-09 06:00:00,Imaging X-ray Polarimetry Explorer (IXPE),,Science,1,325,No,No,LEO,NASA (LSP),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1061.5
+F9-113,2021-12-18 12:41:00,Starlink Group 4-4,,Communications,52,15600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1051.11
+F9-114,2021-12-19 03:58:00,Turksat 5B,,Communications,1,4500,No,No,GTO,Turksat,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1067.3
+F9-115,2021-12-21 10:06:00,SpaceX CRS-24,Dragon C209.2,Transportation,1,2989,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,No,B1069.1
+F9-116,2022-01-06 21:49:00,Starlink Group 4-5,,Communications,49,14500,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1062.4
+F9-117,2022-01-13 15:25:38,Transporter-3 (Smallsat Rideshare),,Earth Observation,105,8700,No,No,SSO,Various,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1058.10
+F9-118,2022-01-19 02:02:40,Starlink Group 4-6,,Communications,49,14500,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1060.10
+F9-119,2022-01-31 23:11:00,CSG-2,,Science,1,2205,No,No,SSO,ASI,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1052.3
+F9-120,2022-02-02 20:27:00,NROL-87,,Military,1,8700,No,No,SSO,NRO,Success,No Failure,Success,Ground Pad,VSFB,SLC-4E,F9 B5,No,B1071.1
+F9-121,2022-02-03 18:13:00,Starlink Group 4-7,,Communications,49,14500,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1061.6
+F9-122,2022-02-21 14:44:00,Starlink Group 4-8,,Communications,46,13600,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1058.11
+F9-123,2022-02-25 17:12:00,Starlink Group 4-11,,Communications,50,14750,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1063.4
+F9-124,2022-03-03 14:25:00,Starlink Group 4-9,,Communications,47,13900,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1060.11
+F9-125,2022-03-09 13:45:00,Starlink Group 4-10,,Communications,48,14160,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1052.4
+F9-126,2022-03-19 04:42:00,Starlink Group 4-12,,Communications,53,16250,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1051.12
+F9-127,2022-04-01 16:24:00,Transporter-4 (Smallsat Rideshare),,Earth Observation,40,8700,No,No,SSO,Various,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1061.7
+F9-128,2022-04-08 15:17:52,Axiom-1,Crew Dragon C206.3 Endeavour,Transportation,1,13000,Yes,Yes,LEO (ISS),Axiom Space,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1062.5
+F9-129,2022-04-17 13:13:12,NROL-85 (Intruder 13A (NOSS-3 9A) and Intruder 13B (NOSS-3 9B)),,Military,2,8700,No,No,LEO,NRO,Success,No Failure,Success,Ground Pad,VSFB,SLC-4E,F9 B5,Yes,B1071.2
+F9-130,2022-04-21 17:51:00,Starlink Group 4-14,,Communications,53,16250,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1060.12
+F9-131,2022-04-27 07:52:00,Crew-4,Crew Dragon C212.1 Freedom,Transportation,1,13000,Yes,No,LEO (ISS),NASA (CTS),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1067.4
+F9-132,2022-04-29 21:27:00,Starlink Group 4-16,,Communications,53,16250,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1062.6
+F9-133,2022-05-06 09:46:00,Starlink Group 4-17,,Communications,53,16250,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1058.12
+F9-134,2022-05-13 22:07:00,Starlink Group 4-13,,Communications,53,16250,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1063.5
+F9-135,2022-05-14 20:40:00,Starlink Group 4-15,,Communications,53,16250,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,No,B1073.1
+F9-136,2022-05-18 10:59:00,Starlink Group 4-18,,Communications,53,16250,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1052.5
+F9-137,2022-05-25 18:35:00,Transporter-5 (Smallsat Rideshare),,Earth Observation,59,8700,No,No,SSO,Various,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1061.8
+F9-138,2022-06-08 21:03:00,Nilesat-301,,Communications,1,4100,No,No,GTO,Nilesat,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1062.7
+F9-139,2022-06-17 16:09:00,Starlink Group 4-19,,Communications,53,16250,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1060.13
+F9-140,2022-06-18 14:19:00,SARah 1,,Military,1,4000,No,No,SSO,German Intelligence Service,Success,No Failure,Success,Ground Pad,VSFB,SLC-4E,F9 B5,Yes,B1071.3
+F9-141,2022-06-19 04:27:00,Globalstar-2 M087 (FM15),,Communications,1,700,No,No,LEO,Globalstar,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1061.9
+F9-141,2022-06-19 04:27:00,USA 328,,Unknown,1,700,No,No,LEO,Unknown US Government Agency,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1061.9
+F9-141,2022-06-19 04:27:00,USA 331,,Unknown,1,700,No,No,LEO,Unknown US Government Agency,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1061.9
+F9-142,2022-06-29 21:04:00,SES-22,,Communications,1,3500,No,No,GTO,SES,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1073.2
+F9-143,2022-07-07 13:11:00,Starlink Group 4-21,,Communications,53,16250,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1058.13
+F9-144,2022-07-11 01:39:00,Starlink Group 3-1,,Communications,46,14100,No,No,SSO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1063.6
+F9-145,2022-07-15 00:44:22,SpaceX CRS-25,Dragon C208.3,Transportation,1,2668,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1067.5
+F9-146,2022-07-17 14:20:00,Starlink Group 4-22,,Communications,53,16250,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1051.13
+F9-147,2022-07-22 17:39:00,Starlink Group 3-2,,Communications,46,14100,No,No,SSO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1071.4
+F9-148,2022-07-24 13:38:00,Starlink Group 4-25,,Communications,53,16250,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1062.8
+F9-149,2022-08-04 23:08:00,Danuri (Korea Pathfinder Lunar Orbiter),,Science,1,679,No,No,Ballistic lunar transfer (BLT),KARI,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1052.6
+F9-150,2022-08-10 02:14:00,Starlink Group 4-26,,Communications,52,16000,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1073.3
+F9-151,2022-08-12 21:40:20,Starlink Group 3-3,,Communications,46,14100,No,No,SSO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1061.10
+F9-152,2022-08-19 19:21:20,Starlink Group 4-27,,Communications,53,16250,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1062.9
+F9-153,2022-08-28 03:41:00,Starlink Group 4-23,,Communications,54,16700,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1069.2
+F9-154,2022-08-31 05:40:00,Starlink Group 3-4,,Communications,46,14200,No,No,SSO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1063.7
+F9-155,2022-09-05 02:09:00,Starlink Group 4-20,,Communications,51,16000,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1052.7
+F9-155,2022-09-05 02:09:00,Sherpa-LTC2,,Transportation,1,16000,No,No,LEO,Spaceflight Industries,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1052.7
+F9-156,2022-09-11 01:20:00,Starlink Group 4-2,,Communications,34,11938,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1058.14
+F9-156,2022-09-11 01:20:00,BlueWalker-3,,Communications,1,11938,No,No,LEO,AST SpaceMobile,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1058.14
+F9-157,2022-09-19 00:18:00,Starlink Group 4-34,,Communications,54,16700,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1067.6
+F9-158,2022-09-24 23:32:00,Starlink Group 4-35,,Communications,52,16100,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1073.4
+F9-159,2022-10-05 16:00:00,Crew-5,Crew Dragon C210.2 Endurance,Transportation,1,13000,Yes,Yes,LEO (ISS),NASA (CTS),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,No,B1077.1
+F9-160,2022-10-05 23:10:00,Starlink Group 4-29,,Communications,52,16100,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1071.5
+F9-161,2022-10-08 23:05:00,Galaxy 33,,Communications,1,7350,No,No,GTO,Intelsat,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1060.14
+F9-161,2022-10-08 23:05:00,Galaxy 34,,Communications,1,7350,No,No,GTO,Intelsat,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1060.14
+F9-162,2022-10-15 05:22:00,Hotbird 13F,,Communications,1,4501,No,No,GTO,Eutelsat,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1069.3
+F9-163,2022-10-20 14:50:00,Starlink Group 4-36,,Communications,54,16700,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1062.10
+F9-164,2022-10-28 01:14:10,Starlink Group 4-31,,Communications,53,16400,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1063.8
+FH-4,2022-11-01 13:41:00,USSF-44 (Shepherd Demonstration & LDPE-2),,Military,1,3750,No,No,GEO,USSF / Millennium Space Systems / Lockheed Martin Space,Success,No Failure,No Attempt,No Landing,KSC,LC-39A,Falcon Heavy B5,No,B1066
+F9-165,2022-11-03 05:22:00,Hotbird 13G,,Communications,1,4500,No,No,GTO,Eutelsat,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1067.7
+F9-166,2022-11-12 16:06:00,Galaxy 31,,Communications,1,6600,No,No,GTO,Intelsat,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40,F9 B5,Yes,B1051.14
+F9-166,2022-11-12 16:06:00,Galaxy 32,,Communications,1,6600,No,No,GTO,Intelsat,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40,F9 B5,Yes,B1051.14
+F9-167,2022-11-23 02:57:00,Eutelsat 10B,,Communications,1,5500,No,No,GTO,Eutelsat,Success,No Failure,No Attempt,No Landing,CCSFS,SLC-40,F9 B5,Yes,B1049.11
+F9-168,2022-11-26 19:20:00,SpaceX CRS-26,Dragon C211.1,Transportation,1,3528,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1076.1
+F9-169,2022-12-08 22:27:00,OneWeb Flight #15,,Communications,1,6000,No,No,Polar LEO,OneWeb,Success,No Failure,Success,Ground Pad,KSC,LC-39A,F9 B5,Yes,B1069.4
+F9-169,2022-12-08 22:27:00,SpaceX Flight 1,,Communications,40,6000,No,No,Polar LEO,SpaceX,Success,No Failure,Success,Ground Pad,KSC,LC-39A,F9 B5,Yes,B1069.4
+F9-170,2022-12-11 07:38:00,Hakuto-R Mission 1,,Science,1,1000,No,No,Ballistic lunar transfer (BLT),ispace,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1073.5
+F9-170,2022-12-11 07:38:00,Emirates Lunar Mission Lunar Flashlight,,Science,1,1000,No,No,Ballistic lunar transfer (BLT),MBRSC / JAXA / NASA,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1073.5
+F9-171,2022-12-16 11:46:00,Surface Water and Ocean Topography (SWOT),,Science,1,2200,No,No,LEO,NASA / CNES,Success,No Failure,Success,Ground Pad,VSFB,SLC-4E,F9 B5,Yes,B1071.6
+F9-172,2022-12-16 22:48:00,O3b mPOWER 1,,Communications,1,4100,No,No,MEO,SES,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1067.8
+F9-172,2022-12-16 22:48:00,O3b mPOWER 2,,Communications,1,4100,No,No,MEO,SES,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1067.8
+F9-173,2022-12-17 21:32:00,Starlink Group 4-37,,Communications,54,16700,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1058.15
+F9-174,2022-12-28 09:34:00,Starlink Group 5-1,,Communications,54,16700,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1062.11
+F9-175,2022-12-30 07:38:00,EROS-C3,,Earth Observation,1,400,No,No,Retrograde LEO,ImageSat International,Success,No Failure,Success,Ground Pad,VSFB,SLC-4E,F9 B5,Yes,B1061.11
+F9-176,2023-01-03 14:56:00,Transporter-6 (Smallsat Rideshare),,Earth Observation,114,8700,No,No,SSO,Various,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1060.15
+F9-177,2023-01-10 04:50:00,OneWeb Flight #16,,Communications,1,6000,No,No,Polar LEO,OneWeb,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1076.2
+F9-177,2023-01-10 04:50:00,SpaceX Flight 2,,Communications,40,6000,No,No,Polar LEO,SpaceX,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1076.2
+FH-5,2023-01-15 22:56:00,USSF-67 (CBAS-2 & LDPE-3A),,Military,2,3750,No,No,GEO,USSF,Success,No Failure,No Attempt,No Landing,KSC,LC-39A,Falcon Heavy B5,No,B1070
+F9-178,2023-01-18 12:24:00,GPS III-06,,Navigation,1,4352,No,No,MEO,USSF,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1077.2
+F9-179,2022-01-19 15:43:00,Starlink Group 2-4,,Communications,51,15800,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,No,B1075.1
+F9-180,2023-01-26 09:32:00,Starlink Group 5-2,,Communications,56,17400,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1067.9
+F9-181,2023-01-31 16:15:00,Starlink Group 2-6,,Communications,49,15200,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1071.7
+F9-181,2023-01-31 16:15:00,ION SCV009 Eclectic Elena,,Transportation,1,15200,No,No,LEO,D-Orbit,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1071.7
+F9-182,2023-02-02 07:58:00,Starlink Group 5-3,,Communications,53,16500,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1069.5
+F9-183,2023-02-07 01:32:00,Amazonas Nexus,,Communications,1,4146,No,No,GTO,Hispasat,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1073.6
+F9-184,2023-02-12 05:10:00,Starlink Group 5-4,,Communications,55,17100,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1062.12
+F9-185,2023-02-17 19:12:00,Starlink Group 2-5,,Communications,51,15900,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1063.9
+F9-186,2023-02-18 03:59:00,Inmarsat-6 F2,,Communications,1,5470,No,No,GTO,Inmarsat,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1077.3
+F9-187,2023-02-27 23:13:00,Starlink Group 6-1 (V2 Mini satellites),,Communications,21,16900,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1076.3
+F9-188,2023-03-02 05:34:00,Crew-6,Crew Dragon C206.4 Endeavour,Transportation,1,13000,Yes,Yes,LEO (ISS),NASA (CTS),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,No,B1078.1
+F9-189,2023-03-03 18:38:00,Starlink Group 2-7,,Communications,51,15900,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1061.12
+F9-190,2023-03-09 19:13:00,OneWeb #17,,Communications,1,6000,No,No,LEO,OneWeb,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1062.13
+F9-190,2023-03-09 19:13:00,SpaceX OneWeb-3,,Communications,40,6000,No,No,LEO,OneWeb,Success,No Failure,Success,Ground Pad,CCSFS,SLC-40,F9 B5,Yes,B1062.13
+F9-191,2023-03-15 00:30:00,SpaceX CRS-27,Dragon C209.3,Transportation,1,2852,Yes,Yes,LEO (ISS),NASA (CRS),Success,No Failure,Success,Drone Ship,KSC,LC-39A,F9 B5,Yes,B1073.7
+F9-192,2023-03-17 19:26:00,Starlink Group 2-8,,Communications,52,16200,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,VSFB,SLC-4E,F9 B5,Yes,B1071.8
+F9-193,2023-03-17 23:38:00,SES-18,,Communications,1,7000,No,No,GTO,SES,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1069.6
+F9-193,2023-03-17 23:38:00,SES-19,,Communications,1,7000,No,No,GTO,SES,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1069.6
+F9-194,2023-03-24 15:43:00,Starlink Group 5-5,,Communications,56,17400,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1067.10
+F9-195,2023-03-29 20:01:00,Starlink Group 5-10,,Communications,56,17400,No,No,LEO,SpaceX,Success,No Failure,Success,Drone Ship,CCSFS,SLC-40,F9 B5,Yes,B1077.4
+F9-196,2023-04-02 14:29:00,Tranche 0A (8 Transport and 2 Tracking Layer Satellites),,Communications,10,12500,No,No,LEO,SDA,Success,No Failure,Success,Landing Zone,VSFB,SLC-4E,F9 B5,Yes,B1075.2
